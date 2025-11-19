@@ -1,2 +1,4 @@
 # Atividade_python_rpg
-atividade de python
+
+unicos imports são apenas para tentar organizar a atividade
+
